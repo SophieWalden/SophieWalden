@@ -1,8 +1,13 @@
-# Hi! I'm Sophie Walden
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=SophieWalden&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=SophieWalden&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-An Undergraduate Computer Scientist.
+<a href=#><img src="contributions.svg"></a>
 
-Who's always looking for more Work! (LinkedIn: https://www.linkedin.com/in/sophie-walden-1227b9233/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SophieWalden&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SophieWalden/count.svg" />
+</p>
