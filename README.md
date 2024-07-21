@@ -7,7 +7,7 @@
 
    I’m currently a Software Dev Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and finishing my Senior year at University of Maine
 
-  In my free time I create websites, solve <a href="https://leetcode.com/u/s0ph13/">Leetcode Problems</a>, and play guitar!
+  In my free time I create websites, watch movies, and play guitar!
     
   :mailbox:How to reach me: <a href="https://www.linkedin.com/in/sophie-walden-1227b9233/">![Linkedin Badge](https://img.shields.io/badge/-SophieWalden-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 
