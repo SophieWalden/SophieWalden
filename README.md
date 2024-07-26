@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -16,10 +16,6 @@
   <br><a href="https://sophiewalden.github.io/lab-website/">Lab Website I was contracted for</a>
 
   (Many more below! Explore my Github)
-    
-  <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=SophieWalden&show_icons=true&theme=radical&hide=issues,contribs,prs&include_all_commits=true&card_width=150" />
-  </a>
   
 
   
@@ -29,4 +25,6 @@
     Visitor count<br>
     <img src="https://profile-counter.glitch.me/SophieWalden/count.svg" />
   </p>
+
+
 </div>
