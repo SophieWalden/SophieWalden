@@ -14,6 +14,7 @@
   Some recent projects I would love you to check out
   <br><a href="https://sophiewalden.github.io/StardewProfile/">Who I am in Stardew Valley Wiki Format</a>
   <br><a href="https://sophiewalden.github.io/lab-website/">Lab Website I was contracted for</a>
+  <br><a href="https://sophiewalden.github.io/SSX_Recorder/">Personal Hosted Clips of a Retro game I love (SSX Tricky)</a>
   <br><a href="https://sophiewalden.github.io/PersonalIncrementalSite/">Personal Site about the Incremental Games I have developed</a>
 
   (Many more below! Explore my Github)
