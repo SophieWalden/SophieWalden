@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-   I’m currently a Software Dev Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and finishing my Senior year at University of Maine
+   I’m currently a full-time Software Engineer for Tyler Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
   In my free time I create websites, watch movies, and play guitar!
     
