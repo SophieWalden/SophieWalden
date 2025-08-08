@@ -13,6 +13,7 @@
 
   Some recent projects I would love you to check out
   <br><a href="https://sophiewalden.github.io/StardewProfile/">Who I am in Stardew Valley Wiki Format</a>
+  <br><a href="https://sophiewalden.github.io/HeightmapVisualization/">Explorable Heightmaps created from drone footage videos</a>
   <br><a href="https://sophiewalden.github.io/PersonalIncrementalSite/">Personal Site about the Incremental Games I have developed</a>
 
   (Many more below! Explore my Github)
